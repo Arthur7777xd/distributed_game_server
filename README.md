@@ -1,1 +1,1 @@
-# distributed_gaming_server
+# distributed_game_server
